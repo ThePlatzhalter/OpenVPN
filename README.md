@@ -13,5 +13,5 @@ I based my image on the [Debian 8 Jessie](https://registry.hub.docker.com/_/debi
 
 ## Notes
 
-- If you are trying to tunnel just a docker container, try to use the implementation of [dperson](https://hub.docker.com/r/dperson/openvpn-client/)
+- If you are trying to tunnel just a docker container, use the implementation of [dperson](https://hub.docker.com/r/dperson/openvpn-client/)
 - I based my image on the instructions of [Niels Grewe](http://nie.gr/2016/04/04/coreos-openvpn/)
